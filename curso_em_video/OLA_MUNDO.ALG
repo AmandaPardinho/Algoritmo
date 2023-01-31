@@ -10,7 +10,8 @@ Var
 
 Inicio
 
-escreva ("Olá mundo!")
+escreval("Olá mundo!")
+escreval("Me livrei da maldição!")
 
 
 Fimalgoritmo
