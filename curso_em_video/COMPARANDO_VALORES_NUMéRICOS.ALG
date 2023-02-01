@@ -10,6 +10,12 @@ a <- 2
 b <- 3
 c <- 5
 
-escreva(a > b)
+escreval(a > b)
+escreval(a <> b)
+escreval(a > 2)
+escreval(a >= 2)
+escreval(c = a + b)
+escreval(c >= b^a)
+
 
 Fimalgoritmo
