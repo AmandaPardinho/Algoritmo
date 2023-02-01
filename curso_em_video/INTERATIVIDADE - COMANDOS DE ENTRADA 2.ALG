@@ -15,7 +15,7 @@ leia(n2)
 
 soma <- n1 + n2
 
-escreval("A soma de n1 + n2 = ", soma)
+escreval("A soma de ", n1, " + ", n2, " = ", soma)
 
 
 Fimalgoritmo
