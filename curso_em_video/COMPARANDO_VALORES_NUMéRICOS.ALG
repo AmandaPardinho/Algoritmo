@@ -15,7 +15,9 @@ escreval(a <> b)
 escreval(a > 2)
 escreval(a >= 2)
 escreval(c = a + b)
-escreval(c >= b^a)
+escreval(c >= b ^ a)
+escreval(b <= c % a)
+escreval(1 = c % 2)
 
 
 Fimalgoritmo
