@@ -8,6 +8,9 @@
 <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a>
+<a href="https://dgadelha.github.io/Portugol-Webstudio/">
+    <img src="https://dgadelha.github.io/Portugol-Webstudio/assets/logo.svg" width="90" height="40" alt="Portugol Webstudio">
+</a>
 
 ---
 
