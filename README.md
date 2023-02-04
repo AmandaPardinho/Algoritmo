@@ -11,6 +11,9 @@
 <a href="https://dgadelha.github.io/Portugol-Webstudio/">
     <img src="https://dgadelha.github.io/Portugol-Webstudio/assets/logo.svg" width="80" height="45" alt="Portugol Webstudio">
 </a>
+<a href="">
+    <img src="https://visualg3.com.br/wp-content/uploads/2017/04/logo.png" width="125">
+</a>
 
 ---
 
