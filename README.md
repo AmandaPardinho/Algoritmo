@@ -8,14 +8,14 @@
 <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a>
-<a href="https://dgadelha.github.io/Portugol-Webstudio/">
-    <img src="https://dgadelha.github.io/Portugol-Webstudio/assets/logo.svg" width="80" height="45" alt="Portugol Webstudio">
+<a href="https://scratch.mit.edu/">
+    <img src="https://scratch.mit.edu/images/logo_sm.png" width="80" height="45" alt="Portugol Webstudio">
 </a>
 <a href="https://visualg3.com.br/">
     <img src="https://visualg3.com.br/wp-content/uploads/2017/04/logo.png" width="125" alt="VisuAlg 3.0">
 </a>
-<a href="https://scratch.mit.edu/">
-    <img scr="https://scratch.mit.edu/images/logo_sm.png" width="80" height="45">
+<a href="https://dgadelha.github.io/Portugol-Webstudio/">
+    <img scr="https://dgadelha.github.io/Portugol-Webstudio/assets/logo.svg" width="80" height="45" alt="Portugol Webstudio">
 </a>
 
 ---
