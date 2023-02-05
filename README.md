@@ -14,6 +14,9 @@
 <a href="https://visualg3.com.br/">
     <img src="https://visualg3.com.br/wp-content/uploads/2017/04/logo.png" width="125" alt="VisuAlg 3.0">
 </a>
+<a href="https://scratch.mit.edu/">
+    <img scr="https://scratch.mit.edu/images/logo_sm.png" width="80" height="45">
+</a>
 
 ---
 
