@@ -14,6 +14,6 @@ leia(imposto)
 
 valorAPagar <- (preco * imposto) / 100
 
-escreva("Você deverá pagar de imposto $", valorAPagar, ".00")
+escreva("Você deverá pagar de imposto $", valorAPagar:5:2, ".00")
 
 Fimalgoritmo
