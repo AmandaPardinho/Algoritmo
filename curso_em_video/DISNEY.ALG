@@ -12,4 +12,10 @@ leia(valorViagem)
 escreva("Quanto dinheiro você tem para viajar? ")
 leia(dinheiro)
 
+se (dinheiro >= valorViagem) entao
+   escreva("Boa viagem!")
+senao
+     escreva("Não foi dessa vez...")
+fimse
+
 Fimalgoritmo
