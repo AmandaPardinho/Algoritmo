@@ -15,7 +15,8 @@ jalapao <- 3000
 se (dinheiro >= disney) então
    escreval("Partiu ver o Mickey!")
 senão
-     se (dinheiro < disney e dinheiro >= jalapao) entao
+     se (dinheiro < disney) e (dinheiro >= jalapao) entao
+     
         escreval("Partiu conhecer as cachoeiras do Jalapão!")
      senão
           escreval("Precisa trabalhar mais...")
