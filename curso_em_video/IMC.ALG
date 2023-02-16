@@ -1,0 +1,11 @@
+Algoritmo "IMC"
+
+Var
+
+
+
+Inicio
+
+
+
+Fimalgoritmo
