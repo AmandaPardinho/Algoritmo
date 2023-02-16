@@ -2,7 +2,7 @@ Algoritmo "Viagens"
 
 Var
 
-dinheiro, disney, jalapao: reais
+dinheiro, disney, jalapao: real
 
 Inicio
 
