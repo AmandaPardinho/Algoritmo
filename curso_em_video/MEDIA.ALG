@@ -14,7 +14,7 @@ leia(nota2)
 
 media <- (nota1 + nota2) / 2
 
-escreval("A média final deste aluno foi ", M:4:2)
+escreval("A média final deste aluno foi ", media:4:2)
 
 
 Fimalgoritmo
