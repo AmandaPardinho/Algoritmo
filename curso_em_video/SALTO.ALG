@@ -7,10 +7,10 @@ contador, valor, salto: inteiro
 Inicio
 
 contador <- 0
-escreva("Até quanto deseja contar?")
+escreva("Até quanto deseja contar? ")
 leia(valor)
 
-escreva("Qual o valor do salto do contador?")
+escreva("Qual o valor do salto do contador? ")
 leia(salto)
 
 enquanto (contador <= valor) faca
