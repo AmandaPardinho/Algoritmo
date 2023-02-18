@@ -8,7 +8,6 @@ resposta: caractere
 Inicio
 
 repita
-
    escreva("Digite um número: ")
    leia(numero)
 
