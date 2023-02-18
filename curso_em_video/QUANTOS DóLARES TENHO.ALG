@@ -16,9 +16,9 @@ enquanto (contador <= 4) faca
 
    usd <- brl / cotacaoUsd
    
-   escreval("")
    escreval("Você conseguirá $ ", usd:5:2, " por essa quantida em reais")
-
+   escreval("")
+   
    contador <- contador + 1
 fimenquanto
 
