@@ -14,7 +14,7 @@ leia(numero)
 
 repita
    tabuada <- numero * multiplo
-   escreval(tabuada)
+   escreval(numero, " x ", multiplo, " = ", tabuada)
    
    multiplo <- multiplo + 1
 ate (multiplo > 10)
