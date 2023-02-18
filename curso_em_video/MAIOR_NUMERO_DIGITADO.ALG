@@ -12,7 +12,7 @@ soma <- 0
 enquanto (contador <= 5) faca
    escreval("Digite um número: ")
    leia(numero)
-   se (numero >= maior) entao
+   se (numero > maior) entao
       maior <- numero
    fimse
    soma <- soma + numero
