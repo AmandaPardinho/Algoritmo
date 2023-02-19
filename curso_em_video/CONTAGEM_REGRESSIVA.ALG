@@ -6,7 +6,7 @@ contador: inteiro
 
 Inicio
 
-para contador <- 1 ate 10 passo 1 faca
+para contador <- 10 ate 1 passo -1 faca
    escreval(contador)
 fimpara
 
