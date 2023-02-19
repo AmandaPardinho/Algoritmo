@@ -10,7 +10,7 @@ intervaloZeroDez <- 0
 
 para contador <- 1 ate 6 faca
    escreva("Digite um numero: ")
-   leia(valor)
+   leia(numero)
 
    se (numero >= 0) e (numero <= 10) entao
       intervaloZeroDez <- intervaloZeroDez + 1
